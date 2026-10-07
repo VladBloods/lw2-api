@@ -1,0 +1,11 @@
+{
+  "directors": [
+    { "id": 1, "name": "Christopher Nolan", "country": "UK" },
+    { "id": 2, "name": "Quentin Tarantino", "country": "USA" }
+  ],
+  "movies": [
+    { "id": 1, "title": "Inception", "directorId": 1, "year": 2010 },
+    { "id": 2, "title": "Interstellar", "directorId": 1, "year": 2014 },
+    { "id": 3, "title": "Pulp Fiction", "directorId": 2, "year": 1994 }
+  ]
+}
